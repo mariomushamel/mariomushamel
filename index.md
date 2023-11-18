@@ -21,3 +21,4 @@ In lab 3 part 1, we created a program that would take user info to fill in blank
 Lab 7 part 2, was a great lab that tested both my coding skills as well as my commitment skills. I knew how to game blackjack was played but trying to configure the Ace rule was a bit of a challenge. I was having trouble trying to implement the Ace being valued at 1 or 11 depending on the hand. This took me a lot of extra researching to fully understand. At the end, I was able to successfully complete the lab and was proud of my dedication to the assignment.
 
 
+
